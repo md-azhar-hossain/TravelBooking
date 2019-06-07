@@ -1,0 +1,155 @@
+body{
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+}
+#nav1{
+	margin-left: 200px;
+	color: #000066;
+	font-weight: bold;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 30px;
+}
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #e6b800;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: ;
+  color: black;
+}
+
+.container-fluid{
+	position: relative;
+	margin: 0px;
+}
+.text-block1{
+	position: absolute;
+	background-color: #e6b800;
+	top:180px;
+	left: 100px;
+	padding: 10px;
+}
+.text-block2{
+	position: absolute;
+	background-color: #e6b800;
+	top:250px;
+	left: 100px;
+	padding:10px;
+}
+
+.trans-text{
+	position: relative;
+	height: 50px;
+	bottom: 40px;
+}
+h4{
+	display: inline;
+	text-align: center;
+}
+
+.trans{
+	border:1px solid black;
+	height: 50px;
+	background-color: white;
+	position: relative;
+	bottom: 100px;
+	opacity: 0.2;
+}
+.trans-container{
+	position: relative;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	height: 200px;
+	bottom: 100px;
+	background-color: white;
+	box-shadow: 0px 5px #888888;
+}
+
+
+
+
+.button-block{
+	position: relative;
+	bottom: 125px;
+}
+
+.block1{
+	margin-top: -10px;
+}
+
+.logo-block{
+	margin-top: 50px;
+	height: 250px;
+	
+}
+
+.logo-block1{
+
+		height: 100%;
+		
+}
+.logo-block2{
+	height: 100%;
+		
+}
+
+.logo-block3{
+
+
+	height: 100%;
+		
+}
+.offer-block1{
+		margin-top: 50px;
+			height: 50px;
+
+}
+.slide-block{
+	margin-top:50px;
+	height: 320px;
+}
+
+.content{
+	margin-top: 50px;
+}
+
+#bh{
+	color: #000066;
+	
+	font-size: 30px;
+}
+
+#tr{
+	color: #000066;
+	
+	font-size: 30px;
+}
+.list-group-item{
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid grey;
+}
+
+#bd{
+color: #000066;
+	
+	font-size: 30px;	
+}
+.hot3{
+	height: 100%;
+	width: 10%;
+}
